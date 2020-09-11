@@ -3,6 +3,7 @@
 🔭 I’m currently working on the following projects:
 
 [<img src="https://raw.githubusercontent.com/villegar/dive/master/images/logo.png" height="200"/>](https://github.com/villegar/dive)
+[<img src="https://raw.githubusercontent.com/villegar/IPA/master/inst/images/logo.png" height="200"/>](https://github.com/villegar/IPA)
 [<img src="https://raw.githubusercontent.com/villegar/MetaPipe/master/inst/images/metapipe.png" height="200"/>](https://github.com/villegar/MetaPipe)
 [<img src="https://raw.githubusercontent.com/villegar/RhAMPseq/master/figures/logo.png" height="200"/>](https://github.com/villegar/RhAMPseq)
 [<img src="https://raw.githubusercontent.com/villegar/RuNAs/master/images/logo.png" height="200"/>](https://github.com/villegar/RuNAs)

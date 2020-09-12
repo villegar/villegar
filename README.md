@@ -11,9 +11,9 @@
 [<img src="https://raw.githubusercontent.com/villegar/villegar/master/images/half_blank_right.png" height="100" width="60"/>](https://github.com/villegar)
 [<img src="https://raw.githubusercontent.com/villegar/vaca/master/images/logo.png" height="150"/>](https://github.com/villegar/vaca)
 [<img src="https://raw.githubusercontent.com/villegar/www/master/static/images/logo.png" height="150" alt="www"/>](https://github.com/villegar/www)
-[<img src="https://raw.githubusercontent.com/villegar/villegar/master/images/logo_soon.png" height="150" alt="Coming soon"/>](https://github.com/villegar)
-[<img src="https://raw.githubusercontent.com/villegar/villegar/master/images/logo_soon.png" height="150" alt="Coming soon"/>](https://github.com/villegar)
-[<img src="https://raw.githubusercontent.com/villegar/villegar/master/images/logo_soon.png" height="150" alt="Coming soon"/>](https://github.com/villegar)
+[<img src="https://raw.githubusercontent.com/villegar/villegar/master/images/logo_soon.png" height="150" alt="Coming soon"/>](https://github.com/villegar/#)
+[<img src="https://raw.githubusercontent.com/villegar/villegar/master/images/logo_soon.png" height="150" alt="Coming soon"/>](https://github.com/villegar/#)
+[<img src="https://raw.githubusercontent.com/villegar/villegar/master/images/logo_soon.png" height="150" alt="Coming soon"/>](https://github.com/villegar/#)
 
 <!--
 [![Roberto's github stats](https://github-readme-stats.vercel.app/api?username=villegar&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)

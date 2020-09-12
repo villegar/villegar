@@ -8,9 +8,10 @@
 [<img src="https://raw.githubusercontent.com/villegar/RhAMPseq/master/figures/logo.png" height="200"/>](https://github.com/villegar/RhAMPseq)
 [<img src="https://raw.githubusercontent.com/villegar/villegar/master/images/half_blank_left.png" height="200"/>](https://github.com/villegar)
 [<img src="https://raw.githubusercontent.com/villegar/villegar/master/images/half_blank_right.png" height="150" width="85"/>](https://github.com/villegar)
-[<img src="https://raw.githubusercontent.com/villegar/villegar/master/images/half_blank_right.png" height="150" width="85"/>](https://github.com/villegar)
-[<img src="https://raw.githubusercontent.com/villegar/villegar/master/images/logo.png" height="200"/>](https://github.com/villegar)
 [<img src="https://raw.githubusercontent.com/villegar/RuNAs/master/images/logo.png" height="200"/>](https://github.com/villegar/RuNAs)
+[<img src="https://raw.githubusercontent.com/villegar/villegar/master/images/logo.png" height="200"/>](https://github.com/villegar)
+[<img src="https://raw.githubusercontent.com/villegar/villegar/master/images/logo.png" height="200"/>](https://github.com/villegar)
+[<img src="https://raw.githubusercontent.com/villegar/villegar/master/images/logo.png" height="200"/>](https://github.com/villegar)
 
 <!--
 [![Roberto's github stats](https://github-readme-stats.vercel.app/api?username=villegar&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)

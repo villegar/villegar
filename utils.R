@@ -46,6 +46,7 @@ blank_hex_logo <- function(...) {
 }
 
 hex_logo()
+hex_logo("images/construction.png", output = "images/logo_soon.png")
 blank_hex_logo()
 
 

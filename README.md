@@ -6,6 +6,7 @@
 [<img src="https://raw.githubusercontent.com/villegar/IPA/master/inst/images/logo.png" height="200"/>](https://github.com/villegar/IPA)
 [<img src="https://raw.githubusercontent.com/villegar/dive/master/inst/images/logo.png" height="200"/>](https://github.com/villegar/dive)
 [<img src="https://raw.githubusercontent.com/villegar/IPA/master/inst/images/logo.png" height="200"/>](https://github.com/villegar/IPA)
+[<img src="https://raw.githubusercontent.com/villegar/villegar/master/images/half_blank_left.png" height="150" width="85"/>](https://github.com/villegar)
 [<img src="https://raw.githubusercontent.com/villegar/villegar/master/images/half_blank_right.png" height="150" width="85"/>](https://github.com/villegar)
 [<img src="https://raw.githubusercontent.com/villegar/dive/master/inst/images/logo.png" height="200"/>](https://github.com/villegar/dive)
 [<img src="https://raw.githubusercontent.com/villegar/IPA/master/inst/images/logo.png" height="200"/>](https://github.com/villegar/IPA)

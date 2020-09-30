@@ -37,6 +37,14 @@ hex_logo <- function(subplot = "images/empty.png",
                       filename = output)
 }
 
+# R4DS BookClub logo
+hex_logo(subplot = "images/books.png", 
+         dpi = 900,
+         output = "images/r4ds-bookclub.png",
+         package = "BookClub",
+         u_size = 1.6,
+         url = "R4DS: https://t.co/HIWwvhm6Eh")
+
 blank_hex_logo <- function(...) {
   hex_logo(h_color = "#FFFFFF", 
            package = "", 

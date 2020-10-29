@@ -14,9 +14,9 @@
 [<img src="https://raw.githubusercontent.com/villegar/tuRnip/main/inst/images/logo.png" height="150" />](https://github.com/villegar/tuRnip)
 [<img src="https://raw.githubusercontent.com/special-uor/fxTWAPLS/master/inst/images/logo.png" height="150"/>](https://github.com/special-uor/fxTWAPLS)
 [<img src="https://raw.githubusercontent.com/villegar/vaca/master/images/logo.png" height="150" />](https://github.com/villegar/vaca)
+<!--[<img src="https://raw.githubusercontent.com/villegar/villegar/master/images/half_blank_left.png" height="150"/>](https://github.com/villegar/#) -->
 [<img src="https://raw.githubusercontent.com/villegar/villegar/master/images/half_blank_right.png" height="100" width="60"/>](https://github.com/villegar/#)
 [<img src="https://raw.githubusercontent.com/villegar/www/master/static/images/logo.png" height="150" alt="www"/>](https://github.com/villegar/www)
-[<img src="https://raw.githubusercontent.com/villegar/villegar/master/images/logo_soon.png" height="150" alt="Coming soon"/>](https://github.com/villegar/#) 
 [<img src="https://raw.githubusercontent.com/villegar/villegar/master/images/logo_soon.png" height="150" alt="Coming soon"/>](https://github.com/villegar/#) 
 [<img src="https://raw.githubusercontent.com/villegar/villegar/master/images/logo_soon.png" height="150" alt="Coming soon"/>](https://github.com/villegar/#) 
 [<img src="https://raw.githubusercontent.com/villegar/villegar/master/images/logo_soon.png" height="150" alt="Coming soon"/>](https://github.com/villegar/#) 

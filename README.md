@@ -2,6 +2,7 @@
 
 🔭 I’m currently working on the following projects:
 
+[<img src="https://raw.githubusercontent.com/villegar/villegar/master/images/codos.png" height="150" alt="codos"/>](https://github.com/villegar/#) 
 [<img src="https://github.com/special-uor/dabr/blob/dev/inst/images/logo.png" height="150"/>](https://github.com/special-uor/dabr)
 [<img src="https://raw.githubusercontent.com/villegar/dive/master/inst/images/logo.png" height="150"/>](https://github.com/villegar/dive)
 [<img src="https://raw.githubusercontent.com/villegar/DoGE/master/images/logo.png" height="150"/>](https://github.com/villegar/DogE)
@@ -10,6 +11,7 @@
 <!--[<img src="https://raw.githubusercontent.com/villegar/villegar/master/images/half_blank_left.png" height="150"/>](https://github.com/villegar/#) -->
 [<img src="https://raw.githubusercontent.com/villegar/villegar/master/images/half_blank_right.png" height="100" width="60"/>](https://github.com/villegar/#)
 [<img src="https://raw.githubusercontent.com/villegar/RhAMPseq/master/inst/images/logo.png" height="150"/>](https://github.com/villegar/RhAMPseq)
+[<img src="https://raw.githubusercontent.com/villegar/villegar/master/images/rpd.png" height="150" alt="RPD"/>](https://github.com/villegar/#) 
 [<img src="https://raw.githubusercontent.com/villegar/RuNAs/master/images/logo.png" height="150"/>](https://github.com/villegar/RuNAs)
 [<img src="https://raw.githubusercontent.com/villegar/tuRnip/main/inst/images/logo.png" height="150" />](https://github.com/villegar/tuRnip)
 [<img src="https://raw.githubusercontent.com/special-uor/fxTWAPLS/master/inst/images/logo.png" height="150"/>](https://github.com/special-uor/fxTWAPLS)

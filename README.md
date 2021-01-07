@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on the following projects:
 
-[<img src="https://raw.githubusercontent.com/villegar/villegar/master/images/codos.png" height="150" alt="codos"/>](https://github.com/villegar/#) 
+[<img src="https://raw.githubusercontent.com/villegar/villegar/master/images/codos.png" height="150" alt="codos"/>](https://github.com/special-uor/#) 
 [<img src="https://github.com/special-uor/dabr/blob/dev/inst/images/logo.png" height="150"/>](https://github.com/special-uor/dabr)
 [<img src="https://raw.githubusercontent.com/villegar/dive/master/inst/images/logo.png" height="150"/>](https://github.com/villegar/dive)
 [<img src="https://raw.githubusercontent.com/villegar/DoGE/master/images/logo.png" height="150"/>](https://github.com/villegar/DogE)
@@ -12,14 +12,15 @@
 [<img src="https://raw.githubusercontent.com/villegar/IPA/master/inst/images/logo.png" height="150"/>](https://github.com/villegar/IPA)
 [<img src="https://raw.githubusercontent.com/villegar/MetaPipe/master/inst/images/metapipe.png" height="150"/>](https://github.com/villegar/MetaPipe)
 [<img src="https://raw.githubusercontent.com/villegar/RhAMPseq/master/inst/images/logo.png" height="150"/>](https://github.com/villegar/RhAMPseq)
-[<img src="https://raw.githubusercontent.com/villegar/villegar/master/images/rpd.png" height="150" alt="RPD"/>](https://github.com/villegar/#) 
+[<img src="https://raw.githubusercontent.com/villegar/villegar/master/images/rpd.png" height="150" alt="RPD"/>](https://github.com/special-uor/#) 
 [<img src="https://raw.githubusercontent.com/villegar/RuNAs/master/images/logo.png" height="150"/>](https://github.com/villegar/RuNAs)
 <!--[<img src="https://raw.githubusercontent.com/villegar/villegar/master/images/half_blank_left.png" height="150"/>](https://github.com/villegar/#) -->
-[<img src="https://raw.githubusercontent.com/villegar/splash/dev/inst/images/logo.png" height="150"/>](https://github.com/villegar/splash)
+[<img src="https://raw.githubusercontent.com/villegar/scrappy/main/inst/images/logo.png" height="150" />](https://github.com/villegar/scrappy)
+[<img src="https://raw.githubusercontent.com/villegar/splash/dev/inst/images/logo.png" height="150" />](https://github.com/villegar/splash)
 [<img src="https://raw.githubusercontent.com/villegar/tuRnip/main/inst/images/logo.png" height="150" />](https://github.com/villegar/tuRnip)
 [<img src="https://raw.githubusercontent.com/villegar/vaca/master/images/logo.png" height="150" />](https://github.com/villegar/vaca)
 [<img src="https://raw.githubusercontent.com/villegar/www/master/static/images/logo.png" height="150" alt="www"/>](https://github.com/villegar/www)
-[<img src="https://raw.githubusercontent.com/villegar/villegar/master/images/logo_soon.png" height="150" alt="Coming soon"/>](https://github.com/villegar/#) 
+<!--[<img src="https://raw.githubusercontent.com/villegar/villegar/master/images/logo_soon.png" height="150" alt="Coming soon"/>](https://github.com/villegar/#) -->
 <!--[<img src="https://raw.githubusercontent.com/villegar/villegar/master/images/logo_soon.png" height="150" alt="Coming soon"/>](https://github.com/villegar/#) --> 
 <!--[<img src="https://raw.githubusercontent.com/villegar/villegar/master/images/logo_soon.png" height="150" alt="Coming soon"/>](https://github.com/villegar/#) -->
 <!--[<img src="https://raw.githubusercontent.com/villegar/villegar/master/images/logo_soon.png" height="150" alt="Coming soon"/>](https://github.com/villegar/#) -->

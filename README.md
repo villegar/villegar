@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on the following projects:
 
-[<img src="https://raw.githubusercontent.com/villegar/villegar/master/images/codos.png" height="150" alt="codos"/>](https://github.com/special-uor/#) 
+[<img src="https://raw.githubusercontent.com/villegar/villegar/master/images/codos.png" height="150" alt="codos"/>](https://github.com/special-uor/codos) 
 [<img src="https://github.com/special-uor/dabr/blob/dev/inst/images/logo.png" height="150"/>](https://github.com/special-uor/dabr)
 [<img src="https://raw.githubusercontent.com/villegar/dive/master/inst/images/logo.png" height="150"/>](https://github.com/villegar/dive)
 [<img src="https://raw.githubusercontent.com/villegar/DoGE/master/images/logo.png" height="150"/>](https://github.com/villegar/DogE)
